@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "type": "starred",
+      "starred_at": "2025-03-12",
+      "repository": {
+        "name": "microsoft/vscode",
+        "description": "Visual Studio Code",
+        "url": "https://github.com/microsoft/vscode",
+        "language": "TypeScript"
+      }
+    },
+    {
+      "type": "starred",
+      "starred_at": "2025-02-26",
+      "repository": {
+        "name": "facebook/react",
+        "description": "The library for web and native user interfaces.",
+        "url": "https://github.com/facebook/react",
+        "language": "JavaScript"
+      }
+    },
+    {
+      "type": "starred",
+      "starred_at": "2025-01-18",
+      "repository": {
+        "name": "tailwindlabs/tailwindcss",
+        "description": "A utility-first CSS framework for rapidly building custom user interfaces.",
+        "url": "https://github.com/tailwindlabs/tailwindcss",
+        "language": "CSS"
+      }
+    }
+  ]
+}
